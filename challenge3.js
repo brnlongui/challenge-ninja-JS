@@ -1,6 +1,6 @@
 //# Desafio da semana #3
 // Declarar uma variável qualquer, que receba um objeto vazio.
-
+var objeto = {};
 
 /*
 Declarar uma variável `pessoa`, que receba suas informações pessoais.
