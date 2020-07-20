@@ -1,4 +1,4 @@
-//# Desafio da semana #6
+//# Desafio da semana #7
 /*
 Crie um array com 5 items (tipos variados).
 */
